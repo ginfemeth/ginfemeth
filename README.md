@@ -1,6 +1,5 @@
 # Hi, I'm Amadou! 👋
 
-<!--
 💻 I'm a seasoned web developer with over 6 years of experience in building dynamic and responsive web applications. My passion lies in crafting clean, efficient, and scalable code that delivers a seamless user experience.
 
 🚀 Throughout my career, I've had the opportunity to work on a wide range of projects, from e-commerce platforms and content management systems to custom web applications tailored to specific business needs. I'm proficient in front-end technologies like HTML5, CSS3, JavaScript (ES6+), and modern JavaScript frameworks/libraries such as React.js, Vue.js, and Angular.
@@ -15,4 +14,3 @@
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
--->
