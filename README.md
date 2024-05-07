@@ -13,4 +13,4 @@
 🌟 Let's connect and collaborate on exciting projects!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,nestjs,nodejs,react,vite,nextjs,angular,aws,git,graphql,ipfs,laravel,mongodb)](https://skillicons.dev)
